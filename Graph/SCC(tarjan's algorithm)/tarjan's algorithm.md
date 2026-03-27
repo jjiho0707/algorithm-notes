@@ -1,4 +1,16 @@
-definition : SCC
+# Algorithm Note : tarjan's algorithm (graph)
+
+##
+where to use: 
+given directed simple graph, extracts all SCC and makes DAG
+
+
+
+
+
+
+
+(한국어 설명 - 2025년에 작성됨)
 
 SCC는 Vertex전체집합의 부분집합으로, 임의의 두 정점 사이의 양방향 경로가 모두 존재해야한다.
 
